@@ -1,0 +1,31 @@
+/* Electrolux regular */
+@font-face {
+	font-family: 'Electrolux-sans';
+	font-style: normal;
+	font-weight: normal;
+	src: url('https://dedefelrodrigues.github.io/themes.github.io/fonts/electroluxsans_3_regular-webfont.woff2') format('woff2');
+}
+
+/* Electrolux italic */
+@font-face {
+	font-family: 'Electrolux-sans';
+	font-style: italic;
+	font-weight: normal;
+	src: url('https://dedefelrodrigues.github.io/themes.github.io/fonts/electroluxsans_oblique_3_regular-webfont.woff2') format('woff2');	
+}
+
+/* Electrolux bold */
+@font-face {
+	font-family: 'Electrolux-sans';
+	font-style: italic;
+	font-weight: normal;
+	src: url('https://dedefelrodrigues.github.io/themes.github.io/fonts/electroluxsans_5_bold-webfont.woff2') format('woff2');	
+}
+
+/* Electrolux thin */
+@font-face {
+	font-family: 'Electrolux-sans';
+	font-style: normal;
+	font-weight: normal;
+	src: url('https://dedefelrodrigues.github.io/themes.github.io/fonts/electroluxsans_1_thin-webfont.woff2') format('woff2');	
+}
