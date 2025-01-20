@@ -1,31 +1,35 @@
-/* Electrolux regular */
+/* Electrolux-sans Regular */
 @font-face {
-	font-family: 'Electrolux-sans';
-	font-style: normal;
-	font-weight: 400; 
-	src: url('https://dedefelrodrigues.github.io/themes.github.io/fonts/electroluxsans_3_regular-webfont.woff2') format('woff2');
+  font-family: "Electrolux-sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://dedefelrodrigues.github.io/themes.github.io/fonts/electroluxsans_3_regular-webfont.woff2")
+    format("woff2");
 }
 
-/* Electrolux italic */
+/* Electrolux-sans Italic */
 @font-face {
-	font-family: 'Electrolux-sans';
-	font-style: italic;
-	font-weight: 400;
-	src: url('https://dedefelrodrigues.github.io/themes.github.io/fonts/electroluxsans_oblique_3_regular-webfont.woff2') format('woff2');	
+  font-family: "Electrolux-sans";
+  font-style: italic;
+  font-weight: 400;
+  src: url("https://dedefelrodrigues.github.io/themes.github.io/fonts/electroluxsans_oblique_3_regular-webfont.woff2")
+    format("woff2");
 }
 
-/* Electrolux bold */
+/* Electrolux-sans Bold */
 @font-face {
-	font-family: 'Electrolux-sans';
-	font-style: italic;
-	font-weight: 700;
-	src: url('https://dedefelrodrigues.github.io/themes.github.io/fonts/electroluxsans_5_bold-webfont.woff2') format('woff2');	
+  font-family: "Electrolux-sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://dedefelrodrigues.github.io/themes.github.io/fonts/electroluxsans_5_bold-webfont.woff2")
+    format("woff2");
 }
 
-/* Electrolux thin */
+/* Electrolux-sans Bold Italic */
 @font-face {
-	font-family: 'Electrolux-sans';
-	font-style: normal;
-	font-weight: 400;
-	src: url('https://dedefelrodrigues.github.io/themes.github.io/fonts/electroluxsans_1_thin-webfont.woff2') format('woff2');	
+  font-family: "Electrolux-sans";
+  font-style: italic;
+  font-weight: 700;
+  src: url("https://dedefelrodrigues.github.io/themes.github.io/fonts/electroluxsans_oblique_5_bold-webfont.woff2")
+    format("woff2");
 }
