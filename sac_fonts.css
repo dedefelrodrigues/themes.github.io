@@ -2,7 +2,7 @@
 @font-face {
   font-family: "Electrolux-sans";
   font-style: normal;
-  font-weight: 400;
+  font-weight: normal;
   src: url("https://dedefelrodrigues.github.io/themes.github.io/fonts/electroluxsans_3_regular-webfont.woff2")
     format("woff2");
 }
@@ -11,7 +11,7 @@
 @font-face {
   font-family: "Electrolux-sans";
   font-style: italic;
-  font-weight: 400;
+  font-weight: normal;
   src: url("https://dedefelrodrigues.github.io/themes.github.io/fonts/electroluxsans_oblique_3_regular-webfont.woff2")
     format("woff2");
 }
@@ -20,7 +20,7 @@
 @font-face {
   font-family: "Electrolux-sans";
   font-style: normal;
-  font-weight: 700;
+  font-weight: bold;
   src: url("https://dedefelrodrigues.github.io/themes.github.io/fonts/electroluxsans_4_semibold-webfont.woff2")
     format("woff2");
 }
@@ -29,7 +29,7 @@
 @font-face {
   font-family: "Electrolux-sans";
   font-style: italic;
-  font-weight: 700;
+  font-weight: bold;
   src: url("https://dedefelrodrigues.github.io/themes.github.io/fonts/electroluxsans_oblique_5_bold-webfont.woff2")
     format("woff2");
 }

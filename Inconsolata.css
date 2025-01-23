@@ -1,0 +1,35 @@
+/* Inconsolata Regular */
+@font-face {
+  font-family: "Inconsolata";
+  font-style: normal;
+  font-weight: normal;
+  src: url("https://dedefelrodrigues.github.io/themes.github.io/fonts/Inconsolata-Regular.ttf")
+    format("truetype");
+}
+
+/* Inconsolata Italic */
+@font-face {
+  font-family: "Inconsolata";
+  font-style: italic;
+  font-weight: normal;
+  src: url("https://dedefelrodrigues.github.io/themes.github.io/fonts/Inconsolata-Regular.ttf")
+    format("truetype");
+}
+
+/* Inconsolata Bold */
+@font-face {
+  font-family: "Inconsolata";
+  font-style: normal;
+  font-weight: bold;
+  src: url("https://dedefelrodrigues.github.io/themes.github.io/fonts/Inconsolata-SemiBold.ttf")
+    format("truetype");
+}
+
+/* Inconsolata Bold Italic */
+@font-face {
+  font-family: "Inconsolata";
+  font-style: italic;
+  font-weight: bold;
+  src: url("https://dedefelrodrigues.github.io/themes.github.io/fonts/Inconsolata-SemiBold.ttf")
+    format("truetype");
+}
