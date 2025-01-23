@@ -2,7 +2,7 @@
 @font-face {
   font-family: "Inconsolata";
   font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
   src: url("https://dedefelrodrigues.github.io/themes.github.io/fonts/Inconsolata-Regular.ttf")
     format("truetype");
 }
@@ -11,7 +11,7 @@
 @font-face {
   font-family: "Inconsolata";
   font-style: italic;
-  font-weight: normal;
+  font-weight: 400;
   src: url("https://dedefelrodrigues.github.io/themes.github.io/fonts/Inconsolata-Regular.ttf")
     format("truetype");
 }
@@ -20,7 +20,7 @@
 @font-face {
   font-family: "Inconsolata";
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   src: url("https://dedefelrodrigues.github.io/themes.github.io/fonts/Inconsolata-SemiBold.ttf")
     format("truetype");
 }
@@ -29,7 +29,7 @@
 @font-face {
   font-family: "Inconsolata";
   font-style: italic;
-  font-weight: bold;
+  font-weight: 700;
   src: url("https://dedefelrodrigues.github.io/themes.github.io/fonts/Inconsolata-SemiBold.ttf")
     format("truetype");
 }
